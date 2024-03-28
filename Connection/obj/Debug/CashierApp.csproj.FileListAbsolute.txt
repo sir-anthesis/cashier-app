@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\CashierApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\CashierApp.Form1.resources
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\CashierApp.FormBarang.resources
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\Connection.Properties.Resources.resources
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\CashierApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\CashierApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\Connection.exe
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\Connection.pdb
+C:\Users\User\source\repos\Connection\Connection\bin\Debug\Connection.exe.config
+C:\Users\User\source\repos\Connection\Connection\bin\Debug\Connection.exe
+C:\Users\User\source\repos\Connection\Connection\bin\Debug\Connection.pdb
+C:\Users\User\source\repos\Connection\Connection\obj\Debug\CashierApp.FormPegawai.resources
